@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexsandro/CLionProjects/rogue-like/Character.cpp
+Character.h
+/home/alexsandro/CLionProjects/rogue-like/Character.h
+
+/home/alexsandro/CLionProjects/rogue-like/Character.h
+
+/home/alexsandro/CLionProjects/rogue-like/Frame.cpp
+Frame.h
+/home/alexsandro/CLionProjects/rogue-like/Frame.h
+
+/home/alexsandro/CLionProjects/rogue-like/Frame.h
+curses.h
+-
+Character.h
+/home/alexsandro/CLionProjects/rogue-like/Character.h
+
+/home/alexsandro/CLionProjects/rogue-like/Screen.cpp
+Screen.h
+/home/alexsandro/CLionProjects/rogue-like/Screen.h
+
+/home/alexsandro/CLionProjects/rogue-like/Screen.h
+
+/home/alexsandro/CLionProjects/rogue-like/main.cpp
+ncurses.h
+-
+Screen.h
+/home/alexsandro/CLionProjects/rogue-like/Screen.h
+Frame.h
+/home/alexsandro/CLionProjects/rogue-like/Frame.h
+
